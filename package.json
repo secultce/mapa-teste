@@ -1,0 +1,20 @@
+{
+  "name": "testes_mapa_redesenho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open":"cypress open",
+    "cy:run":"cypres run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {
+    "node": "^21.2.0",
+    "cypress":"^9.5.1"
+  }
+}
